@@ -5,9 +5,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
 # Site settings
-title: "Jane Smith"
-subtitle: "PhD Student in Glaciology"
-url: "https://janesmith.github.io"
+title: "Jeanne Millot-Weil"
+subtitle: "PhD Student in Paleoclimatology"
+url: "https://jeannemw.github.io"
 
 # Masthead image
 logo: "/assets/images/avatar.png"
@@ -17,15 +17,15 @@ favicon: "/assets/images/favicon.png"
 
 # Author sidebar info
 author:
-  name: Jane Smith
-  bio: "PhD Student in Glaciology at the University of Example."
+  name: Jeanne Millot-Weil
+  bio: "PhD Student in Paleoclimatology at the University of Bristol"
   avatar: "/assets/images/avatar.png"
-  email: jane.smith@example.com
+  email: xk22684@bristol.ac.uk
   location: Bristol, UK
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "github.com/janesmith"
+      url: "github.com/jeannemw"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "linkedin.com/in/janesmith"
