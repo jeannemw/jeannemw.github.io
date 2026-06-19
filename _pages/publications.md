@@ -13,4 +13,4 @@ author_profile: true
 
 - Millot-Weil et al.  Asian monsoon orbital variability directly paced by CO2 and precession, not eccentricity. *Nature Communications*. In review.
   
-- Millot-Weil et al. Relative contributions of CO2 and ice sheets on the Mid-Pleistocene Transition. *Climate of the Past*. In review. 
+- Millot-Weil et al. Relative contributions of CO2 and ice sheets on the Mid-Pleistocene Transition. *Climate of the Past*. In prep. 
