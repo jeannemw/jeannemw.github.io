@@ -7,13 +7,10 @@ author_profile: true
 
 ## Peer-Reviewed Articles
 
-1. Smith, J., Johnson, A., & Williams, K. (2024). A study about glacier mass balance response. *Journal of Glaciology*. https://doi.org/10.XXXX/XXXXX
-
-2. Johnson, A., Smith, J., & Chen, L. (2023). A study about precipitation patterns in alpine regions. *Geophysical Research Letters*. https://doi.org/10.XXXX/XXXXX
-
-3. Smith, J., Brown, R., & Davis, S. (2022). A study about monitoring glacier dynamics with remote sensing. *Remote Sensing of Environment*. https://doi.org/10.XXXX/XXXXX
+1. Ladant, J.-B., Millot-Weil, J., de Lavergne, C., Green, J. A. M., Nguyen, S., & Donnadieu, Y. (2024). The role of tidal mixing in shaping Early Eocene deep ocean circulation and oxygenation. *Paleoceanography and Paleoclimatology*. https://doi.org/10.1029/2023PA004822
 
 ## In Preparation
 
-- Smith, J., et al. Seasonal variations in subglacial discharge: A multi-year study (in review)
-- Smith, J., et al. Machine learning methods for glacier terminus detection (in preparation)
+- Millot-Weil et al.  Asian monsoon orbital variability directly paced by CO2 and precession, not eccentricity. *Nature Communications*. In review.
+  
+- Millot-Weil et al. Relative contributions of CO2 and ice sheets on the Mid-Pleistocene Transition. *Climate of the Past*. In review. 
